@@ -1,4 +1,4 @@
-# Delegent
+# Delegent Protocol
 
 Delegent Protocol is a multi-package TypeScript project for an onchain AI agent marketplace.
 
